@@ -106,7 +106,7 @@ Send-InfoToC2Server
 If you look through the file contents, theres something that is really interesting. It seems as though this file is ET and is phoning home to a C2 (command and control) server. The url answers question 2.
 
 ## Where did this come from and where does it go??
-In the file you can see `Created by the one and only M.M.`, but who is that? You can search for that string on GitHub (GH) by using this url ` https://github.com/search?q=%22Created+by+the+one+and+only+M.M.%22&type=issues`. If you get an error about rate limiting, you can either log in using your own GH account or try later. You can infer who M.M. is by the information on the comment that comes up (this answers question 3) and you can see how many times this repo has been committed to (this answers question 4). 
+In the file you can see `Created by the one and only M.M.`, but who is that? You can search for that string on GitHub (GH) by using this url `https://github.com/search?q=%22Created+by+the+one+and+only+M.M.%22&type=issues`. If you get an error about rate limiting, you can either log in using your own GH account or try later. You can infer who M.M. is by the information on the comment that comes up (this answers question 3) and you can see how many times this repo has been committed to (this answers question 4). 
 
 ## Let's wrap this day up
 Once you answer questions 1-4, the other two question are a given. If you want to, you can checkout the [OPSEC](https://tryhackme.com/r/room/opsec) room to learn more about it. 
